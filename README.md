@@ -1,2 +1,2 @@
 # page-rank
-Graph Neural Network Meet Perasonalized Page Rank (Article implementation)
+## Graph Neural Network Meet Perasonalized Page Rank (Article implementation)
